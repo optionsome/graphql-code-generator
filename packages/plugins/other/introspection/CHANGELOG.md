@@ -1,5 +1,11 @@
 # @graphql-codegen/introspection
 
+## 2.1.1
+
+### Patch Changes
+
+- 8643b3bf3: Add GraphQL 16 as a peerDependency
+
 ## 2.1.0
 
 ### Minor Changes

@@ -1,6 +1,6 @@
 {
   "name": "@graphql-codegen/typescript-stencil-apollo",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "GraphQL Code Generator plugin for generating Stencil Components based on GraphQL operations",
   "repository": {
     "type": "git",

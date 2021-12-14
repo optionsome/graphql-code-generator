@@ -1,5 +1,11 @@
 # @graphql-codegen/typescript-stencil-apollo
 
+## 2.2.2
+
+### Patch Changes
+
+- 8643b3bf3: Add GraphQL 16 as a peerDependency
+
 ## 2.2.1
 
 ### Patch Changes
